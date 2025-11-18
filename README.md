@@ -1,3 +1,9 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="./bannar-420.pgn" alt="My-Banner" width="80%" />
+</p>
+
+---
 <!-- ========== PROFILE HEADER ========== -->
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 <h3 align="center">MERN Stack Developer</h3>
@@ -7,12 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer" />
 </p>
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1rnO8unoj9qksQHwroeXan08L_33w7NqI" alt="Banner" width="80%" />
-</p>
 
----
 
 ## 🚀 About Me
 I’m a dedicated **MERN Stack Developer** from Bangladesh, currently learning **Full Stack Development roadmap** — Next.js, TypeScript, Firebase, Backend Security, Express & MongoDB, Full Stack Deployment.  
