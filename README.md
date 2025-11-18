@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="./bannar-420.pgn" alt="My-Banner" width="80%" />
+  <img src="./bannar-420.png" alt="My-Banner" width="80%" />
 </p>
 
 ---
@@ -21,27 +21,45 @@ I love building clean, responsive, and modern web applications.
 
 ---
 
-## 🛠️ Tech Stack & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,bootstrap,js,html,css,git,github,vscode" />
-  <br>
-  Illustration • Canva
-</p>
+<!--- technology --->
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
----
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript)]()
 
-## 📊 GitHub Stats
-<p align="center">
+### Frontend:
+[![Frontend](https://skillicons.dev/icons?i=react,tailwind,bootstrap)]()
+
+### Backend:
+[![Backend](https://skillicons.dev/icons?i=nodejs,express)]()
+
+### Database:
+[![Database](https://skillicons.dev/icons?i=mongodb)]()
+
+### Tools:
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,windows)]()
+
+### Deployment:
+[![Deployment](https://skillicons.dev/icons?i=vercel,netlify,firebase)]()
+
+<br/>
+
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS:</b>
+
+### GitHub Contributions:
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+
+### Stats:
+<img align="start" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafiz002&theme=swift&layout=compact" /> 
+
+<p align="end">
   <!-- Total Stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omarfaruk69&show_icons=true&theme=radical" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=omarfaruk69&show_icons=true&theme=radical" />
   <!-- Streak Stats -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaruk69&theme=radical" />
 </p>
 
-<p align="center">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaruk69&layout=compact&theme=radical" />
-</p>
+<br/>
 
 ---
 
