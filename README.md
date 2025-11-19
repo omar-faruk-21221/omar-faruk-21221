@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/omar-faruk-21221/omar-faruk-21221/blob/main/bannar-420.png" alt="My-Banner" width="80%" />
+  <img src="https://github.com/omar-faruk-21221/omar-faruk-21221/blob/main/bannar420.png" alt="My-Banner" width="100%" />
 </p>
 
 ---
